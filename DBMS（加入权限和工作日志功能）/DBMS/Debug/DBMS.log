@@ -1,0 +1,109 @@
+﻿  stdafx.cpp
+  ComplexSel.cpp
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\complexsel.cpp(267): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+  DBMS.cpp
+  DBMSDoc.cpp
+  DBMSView.cpp
+  DBView.cpp
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(239): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(279): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(389): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\dbview.cpp(105): warning C4018: “<”: 有符号/无符号不匹配
+  DB_TBNameDlg.cpp
+  DB_TBRenameDlg.cpp
+  FieldDlg.cpp
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(239): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(279): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(389): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\fielddlg.cpp(139): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\fielddlg.cpp(174): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\fielddlg.cpp(213): warning C4018: “<”: 有符号/无符号不匹配
+  MainFrm.cpp
+  MD5Checksum.cpp
+  QueryDlg.cpp
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(239): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(279): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(389): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(38): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(58): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(67): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(106): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(146): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(136): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(189): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(211): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(228): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(179): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(273): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(295): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(312): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(323): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(263): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(368): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(357): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\querydlg.cpp(92): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\querydlg.cpp(161): warning C4018: “<=”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\querydlg.cpp(212): warning C4018: “<”: 有符号/无符号不匹配
+  RecordDlg.cpp
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(239): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(279): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(389): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(38): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(58): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(67): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(106): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(146): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(136): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(189): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(211): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(228): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(179): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(273): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(295): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(312): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(323): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(263): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(368): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(357): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recorddlg.cpp(174): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recorddlg.cpp(207): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recorddlg.cpp(226): warning C4018: “<”: 有符号/无符号不匹配
+  RegisterDlg.cpp
+  SQLDlg.cpp
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(239): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(279): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(389): warning C4101: “s”: 未引用的局部变量
+  TableView.cpp
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(239): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(279): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableentity.h(389): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(38): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(58): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(67): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(106): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(146): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(136): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(189): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(211): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(228): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(179): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(273): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(295): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(312): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(323): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(263): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(368): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(357): warning C4101: “s”: 未引用的局部变量
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableview.cpp(105): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableview.cpp(316): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableview.cpp(366): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableview.cpp(400): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableview.cpp(425): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\tableview.cpp(429): warning C4018: “<”: 有符号/无符号不匹配
+  Transfer.cpp
+  UserDlg.cpp
+  正在生成代码...
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(336): warning C4715: “RecordEntity::updateRecord”: 不是所有的控件路径都返回值
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(241): warning C4715: “RecordEntity::deleteRecord”: 不是所有的控件路径都返回值
+e:\project\c++\dbms（加入权限和工作日志功能）\dbms\recordentity.h(385): warning C4715: “RecordEntity::findRecord”: 不是所有的控件路径都返回值
+  DBMS.vcxproj -> E:\Project\C++\DBMS（加入权限和工作日志功能）\Debug\DBMS.exe
