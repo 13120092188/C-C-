@@ -1,0 +1,5 @@
+﻿  FileCompress.cpp
+e:\project\c++\filecompress\filecompress\filecompress.cpp(48): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  FileCompress.vcxproj -> E:\Project\C++\FileCompress\Debug\FileCompress.exe
