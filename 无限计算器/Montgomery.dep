@@ -1,0 +1,34 @@
+# Microsoft Developer Studio Generated Dependency File, included by Montgomery.mak
+
+.\common.cpp : \
+	".\common.h"\
+	".\type.h"\
+	
+
+.\mon.cpp : \
+	".\mon.h"\
+	".\type.h"\
+	
+
+.\Montgomery.cpp : \
+	".\Montgomery.h"\
+	".\MontgomeryDlg.h"\
+	
+
+.\Montgomery.rc : \
+	".\res\Montgomery.ico"\
+	".\res\Montgomery.rc2"\
+	
+
+.\MontgomeryDlg.cpp : \
+	".\common.h"\
+	".\mon.h"\
+	".\Montgomery.h"\
+	".\MontgomeryDlg.h"\
+	".\type.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	"c:\sw\microsoft visual studio\vc98\include\basetsd.h"\
+	

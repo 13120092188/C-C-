@@ -1,0 +1,29 @@
+﻿生成启动时间为 2018/11/6 17:39:27。
+     1>项目“E:\Study\C++\连连看\连连看\连连看.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Block.cpp Board.cpp main.cpp Menu.cpp Menu.hpp
+         Block.cpp
+         Board.cpp
+         main.cpp
+         Menu.cpp
+     1>e:\study\c++\连连看\连连看\Timer.hpp(64): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+     1>e:\study\c++\连连看\连连看\Timer.hpp(70): warning C4244: “+=”: 从“time_t”转换到“long”，可能丢失数据
+     1>e:\study\c++\连连看\连连看\Timer.hpp(81): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+     1>e:\study\c++\连连看\连连看\Timer.hpp(101): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+         Menu.hpp
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Study\C++\连连看\Release\连连看.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\Study\C++\连连看\Release\连连看.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Study\C++\连连看\Release\连连看.lib" /MACHINE:X86 /SAFESEH Release\Block.obj
+         Release\Board.obj
+         Release\main.obj
+         Release\Menu.obj
+         Release\Menu.obj
+     1>Release\Menu.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+         正在生成代码
+         All 332 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         已完成代码的生成
+         连连看.vcxproj -> E:\Study\C++\连连看\Release\连连看.exe
+     1>已完成生成项目“E:\Study\C++\连连看\连连看\连连看.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:03.51

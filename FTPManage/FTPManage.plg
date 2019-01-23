@@ -1,0 +1,71 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: FTPManage - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/FTPManage.res" /d "_DEBUG" /d "_AFXDLL" "E:\π»∏Ëœ¬‘ÿ\mr\mr\13\FTPManage\FTPManage.rc"" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP59A8.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/FTPManage.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\π»∏Ëœ¬‘ÿ\mr\mr\13\FTPManage\FTPManage.cpp"
+"E:\π»∏Ëœ¬‘ÿ\mr\mr\13\FTPManage\FTPManageDoc.cpp"
+"E:\π»∏Ëœ¬‘ÿ\mr\mr\13\FTPManage\FTPManageView.cpp"
+"E:\π»∏Ëœ¬‘ÿ\mr\mr\13\FTPManage\FTPView.cpp"
+"E:\π»∏Ëœ¬‘ÿ\mr\mr\13\FTPManage\LocalView.cpp"
+"E:\π»∏Ëœ¬‘ÿ\mr\mr\13\FTPManage\MainFrm.cpp"
+"E:\π»∏Ëœ¬‘ÿ\mr\mr\13\FTPManage\SortHeaderCtrl.cpp"
+"E:\π»∏Ëœ¬‘ÿ\mr\mr\13\FTPManage\SortListCtrl.cpp"
+"E:\π»∏Ëœ¬‘ÿ\mr\mr\13\FTPManage\TastList.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP59A8.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP59A9.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/FTPManage.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\π»∏Ëœ¬‘ÿ\mr\mr\13\FTPManage\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP59A9.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP59AA.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/FTPManage.pdb" /debug /machine:I386 /out:"Debug/FTPManage.exe" /pdbtype:sept 
+".\Debug\FTPManage.obj"
+".\Debug\FTPManageDoc.obj"
+".\Debug\FTPManageView.obj"
+".\Debug\FTPView.obj"
+".\Debug\LocalView.obj"
+".\Debug\MainFrm.obj"
+".\Debug\SortHeaderCtrl.obj"
+".\Debug\SortListCtrl.obj"
+".\Debug\StdAfx.obj"
+".\Debug\TastList.obj"
+".\Debug\FTPManage.res"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP59AA.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+FTPManage.cpp
+FTPManageDoc.cpp
+FTPManageView.cpp
+FTPView.cpp
+LocalView.cpp
+MainFrm.cpp
+E:\π»∏Ëœ¬‘ÿ\mr\mr\13\FTPManage\MainFrm.cpp(295) : warning C4101: 'e' : unreferenced local variable
+SortHeaderCtrl.cpp
+SortListCtrl.cpp
+TastList.cpp
+Generating Code...
+E:\π»∏Ëœ¬‘ÿ\mr\mr\13\FTPManage\SortListCtrl.cpp(318) : warning C4715: 'CSortListCtrl::SetItemDataList' : not all control paths return a value
+Linking...
+
+
+
+<h3>Results</h3>
+FTPManage.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

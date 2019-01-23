@@ -1,0 +1,22 @@
+﻿生成启动时间为 2018/5/15 16:28:44。
+     1>项目“E:\学习\C++\MFCFileCompress\MFCFileCompress\MFCFileCompress.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _CRT_NON_CONFORMING_SWPRINTFS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\MFCFileCompress.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt FileCompress.cpp MFCFileCompressDlg.cpp
+         FileCompress.cpp
+         正在生成代码...
+         正在编译...
+         MFCFileCompressDlg.cpp
+         正在生成代码...
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\学习\C++\MFCFileCompress\Debug\MFCFileCompress.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"E:\学习\C++\MFCFileCompress\Debug\MFCFileCompress.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\学习\C++\MFCFileCompress\Debug\MFCFileCompress.lib" /MACHINE:X86 Debug\MFCFileCompress.res
+         Debug\FileCompress.obj
+         Debug\MFCFileCompress.obj
+         Debug\MFCFileCompressDlg.obj
+         Debug\PasswordDlg.obj
+         Debug\stdafx.obj
+         MFCFileCompress.vcxproj -> E:\学习\C++\MFCFileCompress\Debug\MFCFileCompress.exe
+     1>已完成生成项目“E:\学习\C++\MFCFileCompress\MFCFileCompress\MFCFileCompress.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:12.31

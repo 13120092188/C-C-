@@ -1,0 +1,36 @@
+﻿生成启动时间为 2018/4/11 17:31:03。
+     1>项目“E:\学习\第四学期\数据结构实践课\C++\无限计算器\Montgomery.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp".\Debug\Montgomery.pch" /Fo".\Debug\\" /Fd".\Debug\vc140.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+     1>f:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+         f:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp".\Debug\Montgomery.pch" /Fo".\Debug\\" /Fd".\Debug\vc140.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt common.cpp mon.cpp Montgomery.cpp MontgomeryDlg.cpp
+         MontgomeryDlg.cpp
+         Montgomery.cpp
+     1>e:\学习\第四学期\数据结构实践课\c++\无限计算器\montgomery.cpp(52): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+         f:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxwin.h(5224): note: 参见“CWinApp::Enable3dControls”的声明
+         mon.cpp
+         common.cpp
+     1>e:\学习\第四学期\数据结构实践课\c++\无限计算器\common.cpp(25): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _VC80_UPGRADE=0x0600 /D _AFXDLL /l"0x0804" /nologo /fo".\Debug\Montgomery.res" Montgomery.rc 
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\Montgomery.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:".\Debug\Montgomery.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\Montgomery.lib" /MACHINE:X86 /SAFESEH .\Debug\Montgomery.res
+         .\Debug\common.obj
+         .\Debug\mon.obj
+         .\Debug\Montgomery.obj
+         .\Debug\MontgomeryDlg.obj
+         .\Debug\StdAfx.obj
+     1>common.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         Montgomery.vcxproj -> E:\学习\第四学期\数据结构实践课\C++\无限计算器\.\Debug\Montgomery.exe
+       BscMake:
+         F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\bscmake.exe /nologo /o".\Debug\Montgomery.bsc" .\Debug\common.sbr .\Debug\mon.sbr .\Debug\Montgomery.sbr .\Debug\MontgomeryDlg.sbr .\Debug\StdAfx.sbr
+     1>已完成生成项目“E:\学习\第四学期\数据结构实践课\C++\无限计算器\Montgomery.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:11.75

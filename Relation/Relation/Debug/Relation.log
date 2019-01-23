@@ -1,0 +1,19 @@
+﻿生成启动时间为 2018/6/26 16:58:07。
+     1>项目“E:\学习\C++\Relation\Relation\Relation.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt solution.cpp
+         solution.cpp
+     1>e:\学习\c++\relation\relation\solution.cpp(185): warning C4101: “row1”: 未引用的局部变量
+     1>e:\学习\c++\relation\relation\solution.cpp(185): warning C4101: “column1”: 未引用的局部变量
+     1>e:\学习\c++\relation\relation\solution.cpp(220): warning C4101: “row1”: 未引用的局部变量
+     1>e:\学习\c++\relation\relation\solution.cpp(220): warning C4101: “column1”: 未引用的局部变量
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\学习\C++\Relation\Debug\Relation.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\学习\C++\Relation\Debug\Relation.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\学习\C++\Relation\Debug\Relation.lib" /MACHINE:X86 Debug\main.obj
+         Debug\relation.obj
+         Debug\solution.obj
+         Relation.vcxproj -> E:\学习\C++\Relation\Debug\Relation.exe
+     1>已完成生成项目“E:\学习\C++\Relation\Relation\Relation.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.62
