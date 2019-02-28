@@ -1,4 +1,4 @@
-# C-C-
+# CPP
 Some small projects written in C/C++ language
 
 Algorithm  用于联系算法
